@@ -1,6 +1,6 @@
 # Reuben Percival
 
-I make Linux tools to make Linux a better place . I use  Rust and Zig. Most of what I build is stuff I wanted to improve on  — AUR helpers, package managers, fetch tools — so I made them myself.
+I make Linux tools to make Linux a better place . I use  Rust and Zig. Most of what I build is stuff I wanted to improve on such as  AUR helpers, package managers, fetch tools — so I made them myself.
 
 I'm a contributor to Shelly-ALPM ( best project to start learning c++ and dotnet the founder is also chill)  and spend a lot of time thinking about package management and how the Arch ecosystem fits together under the hood. [@theguynamedcj](https://github.com/theguynamedcj) helps out on some projects.
 
