@@ -6,7 +6,7 @@ I'm a contributor to Shelly-ALPM ( best project to start learning c++ and dotnet
 
 Currently learning more Zig and C. Zig is a weird language in the best way. 
 
-📬 [reubenpercival14@gmail.com](mailto:reubenpercival14@gmail.com) to contact me OR  reuben.percival@programmer.net 
+
 
 ---
 
