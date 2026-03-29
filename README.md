@@ -1,14 +1,8 @@
-# Reuben Percival
-hi im Reuben. I love arch linux and cachy os
+# HELLO
+I am reuben percival. I love linux and open source.
+I am a 14 year old from Omagh , NI
+I am building a fork of HOLYC-LANG compiler and a bunch of programs for it.
 
-## My goals.
-My goals for my projects are to learn , have fun and be happy
-
-## Moved to gitlab 
+## HOWEVER
 https://gitlab.com/Reuben-Percival
-I deleted most my repos and am now only working on projects I actually am proud of and want to work on.
-
-## why move to gitlab
-Because my Github was fasely flagged for abuse by a clanker and If I cant trust a git provider why use it
-
-
+has all my proper projects but holyc-lang compiler as its a fork and it feels wrong to migrate it to gitlab
